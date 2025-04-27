@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhatishk&label=Viewers&color=000080&style=plastic" alt="chhatishk" /> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Backend Development & Data Structure and Algorithm using Java.**
+- 🌱 I’m currently learning **Next.js & Data Structure and Algorithm using Java.**
 
 - 👫🏽 I’m looking to collaborate on **an innovative projects which matches my skills.**
 
-- 💬 Ready to answer about **Fronend Technologies**
+- 💬 Ready to answer about **MERN Technologies**
 
 - ✉ Reach to me **er.chhatishkumaryadav@gmail.com**
 
