@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Next.js & Data Structure and Algorithm using Java.**
+- 🌱 I’m currently learning **Data Structure and Algorithm using Java.**
 
 - 👫🏽 I’m looking to collaborate on **an innovative projects which matches my skills.**
 
